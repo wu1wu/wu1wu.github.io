@@ -1,0 +1,25 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "{% craftml %} <craft>     <div>         Hello <cube></cube>     </div> </craft> {% endcraftml %}",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-craftml": "craftml/gitbook-plugin-craftml",
+    "gitbook-plugin-toggle-chapters": "^0.0.3",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craftml/docs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craftml/docs/issues"
+  },
+  "homepage": "https://github.com/craftml/docs"
+}
